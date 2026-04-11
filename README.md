@@ -42,9 +42,6 @@
 | 6-language PWA in 72h | IoT · 70% water saved | Santander Scholar |
 | Scrum Master & PO | 50 paying customers | Specialization in NLP |
 
-<br/>
-
-<img src="https://github-profile-trophy-iota-flax.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
