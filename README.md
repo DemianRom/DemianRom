@@ -17,39 +17,18 @@
 
 ## About Me
 
-<div align="center">
-
-![Location](https://img.shields.io/badge/📍_Mexico_City-0f2b46?style=for-the-badge)
-![Education](https://img.shields.io/badge/🎓_ESCOM--IPN_·_CS_Engineering-0f2b46?style=for-the-badge)
-![GPA](https://img.shields.io/badge/⭐_GPA_9.75%2F10_·_Top_1%25-0FAAFF?style=for-the-badge)
-![Scholar](https://img.shields.io/badge/🏅_Santander_Scholar-FF6C37?style=for-the-badge)
-
-<br/>
-
-![Role1](https://img.shields.io/badge/💻_Full--Stack_Developer-1a1a2e?style=for-the-badge)
-![Role2](https://img.shields.io/badge/🔄_Scrum_Master-1a1a2e?style=for-the-badge)
-![Role3](https://img.shields.io/badge/🚀_Startup_Founder-1a1a2e?style=for-the-badge)
-
-<br/>
-
-![Trophy1](https://img.shields.io/badge/🥈_Talent_Land_2026-2nd_of_100%2B_teams-f5c518?style=for-the-badge&labelColor=0f2b46)
-![Trophy2](https://img.shields.io/badge/🥇_JA_Mexico_Nationals-1st_of_50%2B_teams-f5c518?style=for-the-badge&labelColor=0f2b46)
-
-<br/>
-
-![Learning1](https://img.shields.io/badge/📚_SAP_BTP_%2F_RAP-learning-0FAAFF?style=flat-square)
-![Learning2](https://img.shields.io/badge/📚_S%2F4HANA_Cloud-learning-0FAAFF?style=flat-square)
-![Learning3](https://img.shields.io/badge/📚_NLP_%26_Data_Mining-learning-0FAAFF?style=flat-square)
-
-<br/>
-
-![Available](https://img.shields.io/badge/🟢_Open_to_Internships_%26_Part--time-May_2026-28a745?style=for-the-badge)
-
-<br/><br/>
-
-> 💡 *Built a 6-language PWA in 72 hours under competition pressure*
-
-</div>
+| | |
+|---|---|
+| **Location** | Mexico City, Mexico |
+| **Education** | B.S. Computer Systems Engineering · ESCOM-IPN |
+| **GPA** | 9.75 / 10 — Top 1% of cohort |
+| **Scholarship** | Santander Academic Excellence |
+| **Roles** | Full-Stack Developer · Scrum Master · Startup Founder |
+| **JA Mexico Nationals** | 1st place out of 50+ teams — IoT product · 70% water saved · 50 paying customers |
+| **Talent Land 2026** | 2nd place out of 100+ teams — 6-language PWA built in 72h |
+| **Currently learning** | SAP BTP / RAP · S/4HANA Cloud · NLP & Data Mining |
+| **Available** | Internships & part-time roles · Starting May 2026 |
+| **Fun fact** | Built a 6-language PWA in 72 hours under competition pressure |
 
 ---
 
@@ -65,7 +44,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-iota-flax.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -193,7 +172,7 @@
 
 <img src="https://github-readme-stats-fawn-omega-17.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats-fawn-omega-17.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats-fawn-omega-17.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&include_all_commits=true&count_private=true" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
