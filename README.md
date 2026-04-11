@@ -1,118 +1,164 @@
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2b46,50:0FAAFF,100:00d4ff&height=200&section=header&text=Demian%20Romero%20Bautista&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20·%20Scrum%20Master%20·%20Startup%20Founder&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-# Hi, I'm Demian Romero Bautista 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0FAAFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🥈+2nd+Place+Talent+Land+2026+(100%2B+teams);🏆+National+Startup+Winner+·+JA+México;📊+GPA+9.75%2F10+·+Top+1%25+ESCOM-IPN;🚀+Open+to+internships+·+May+2026)](https://git.io/typing-svg)
 
-### Full-Stack Dev · Scrum Master · Startup Founder
+</div>
 
+<!-- BADGES SOCIALES -->
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DemianRom&color=0FAAFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DemianRom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demian-romero-bautista-a245a2196)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demian0106@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DemianRom)
+[![Phone](https://img.shields.io/badge/55_5407_1782-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:5554071782)
 
 </div>
 
 ---
 
-## About me
+## 🙋‍♂️ About Me
 
--  **CS Engineering @ ESCOM-IPN** — GPA 9.75/10, top 1% of cohort · Santander Academic Excellence Scholar
--  **2nd place at Talent Land 2026** out of 100+ national & international teams
--  **National startup winner — JA México** (1st place, 50+ teams)
--  Currently deepening: **SAP BTP/RAP**, **S/4HANA cloud extensions**, **NLP & Data Mining**
--  Open to **internships and part-time roles starting May 2026**
--  Mexico City, Mexico
+```typescript
+const demian = {
+  location    : "Mexico City 🇲🇽",
+  education   : "CS Engineering @ ESCOM-IPN (GPA 9.75/10 · Top 1%)",
+  roles       : ["Full-Stack Developer", "Scrum Master", "Startup Founder"],
+  achievements: [" Talent Land 2026 — 2nd / 100+ teams",
+                 " JA México Nationals — 1st / 50+ teams",
+                 " Santander Academic Excellence Scholar"],
+  learning    : ["SAP BTP / RAP", "S/4HANA Cloud Extensions", "NLP & Data Mining"],
+  available   : "Internships & part-time · Starting May 2026 ",
+  funFact     : "Built a 6-language PWA in 72 hours under competition pressure "
+};
+```
 
 ---
 
 ##  Highlights
 
-|  Talent Land 2026 · 2nd Place |  JA México Nationals · 1st Place |  GPA 9.75 / Top 1% |
+<div align="center">
+
+|  Talent Land 2026 |  JA México Nationals |  ESCOM-IPN |
 |:---:|:---:|:---:|
-| Built a 6-language PWA in 72h connecting World Cup tourists with local micro-businesses | IoT irrigation product shipped to 50 paying customers — 70% water reduction | Santander Academic Excellence Scholar @ ESCOM-IPN |
+| **2nd of 100+ teams** | **1st of 50+ teams** | **GPA 9.75 · Top 1%** |
+| 6-language PWA in 72h | IoT product · 70% water saved | Santander Scholar |
+| 5-person team as SM & PO | 50 paying customers | Specialization in NLP |
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ##  Tech Stack
 
-**Software & AI**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark&perline=7)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,django,postgres,supabase,redis,git&theme=dark&perline=7)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,cloudflare,github,linux,vscode,postman,figma&theme=dark&perline=7)](https://skillicons.dev)
 
 **SAP & Enterprise**
 
-![SAP](https://img.shields.io/badge/ABAP_Objects-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAP](https://img.shields.io/badge/Open_SQL-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_NetWeaver_AS_ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAP](https://img.shields.io/badge/SE80_·_SE11_·_SAP_GUI-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP_Objects-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Open SQL](https://img.shields.io/badge/Open_SQL-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP NetWeaver](https://img.shields.io/badge/SAP_NetWeaver_AS_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![BTP](https://img.shields.io/badge/Targeting_BTP_·_RAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **AI & APIs**
 
-![Gemini](https://img.shields.io/badge/Gemini_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![DeepL](https://img.shields.io/badge/DeepL-0F2B46?style=flat-square&logo=deepl&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_WAF-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![DeepL](https://img.shields.io/badge/DeepL_API-0F2B46?style=for-the-badge&logo=deepl&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next_(6_langs)-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
 
-**Product & Methods**
+**Methods**
 
-![Scrum](https://img.shields.io/badge/Scrum_Master-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Product_Owner-FF6C37?style=flat-square)
-![PWA](https://img.shields.io/badge/PWA_Architecture-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC_Design-181717?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum_Master-6DB33F?style=for-the-badge)
+![PO](https://img.shields.io/badge/Product_Owner-FF6C37?style=for-the-badge)
+![PWA](https://img.shields.io/badge/PWA_Architecture-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC_Design-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
 ##  Experience
 
-###  MEXEANDO · Talent Land Hackathon 2026 — Product Owner & Full-Stack Dev
-`Apr 2026` · Santa Fe, Mexico City
+<details open>
+<summary><b> MEXEANDO · Talent Land Hackathon 2026 — Product Owner & Full-Stack Dev</b> &nbsp;|&nbsp; <code>Apr 2026</code> · Santa Fe, CDMX</summary>
 
-- Built a **6-language PWA in 72 hours**, placing **2nd out of 100+ national & international teams**
-- Led a 5-person team as **Scrum Master & PO**, connecting World Cup tourists with local micro-businesses across Mexico
-- Designed a **4-layer decoupled architecture** for high availability on congested stadium networks:
-  - PWA: React 18 + Vite + Tailwind
-  - REST API: Node.js + Hono + TypeScript
-  - DB: Supabase (PostgreSQL 15 + RLS)
-  - External: Gemini Flash, DeepL, Google Maps, Cloudflare WAF
-- Shipped RBAC, i18n (6 languages), AI-powered onboarding, Neighborhood Passport gamification & post-event impact reports — from user story to deployed feature under live competition deadlines
+<br/>
+
+> 2nd place out of **100+ national & international teams** · 72-hour competition
+
+-  Built a **6-language PWA in 72 hours** connecting World Cup tourists with authentic local micro-businesses across Mexico
+-  Designed a **4-layer decoupled architecture** for high availability on congested stadium networks:
+
+  | Layer | Stack |
+  |---|---|
+  | PWA | React 18 + Vite + TailwindCSS |
+  | REST API | Node.js + Hono + TypeScript |
+  | Database | Supabase (PostgreSQL 15 + RLS) |
+  | External | Gemini Flash · DeepL · Google Maps · Cloudflare WAF |
+
+-  Shipped: RBAC · i18n (6 languages) · AI-powered onboarding · Neighborhood Passport gamification · post-event impact reports
+
+</details>
+
+<details>
+<summary><b>🏢 SAP Learning Hub (Official Training) — Junior ABAP Developer Trainee</b> &nbsp;|&nbsp; <code>Sep 2025 – Present</code> · Remote</summary>
+
+<br/>
+
+-  **Reduced DB query execution time by 25%** — optimized Open SQL (FOR ALL ENTRIES) + Field Symbols within ABAP Objects (TAW12) applied to high-volume airport operations reporting
+-  **Cut manual reporting cycles by 15%** — Dynpro screen flows with OO ALV Grids eliminated a recurring daily bottleneck across shift handovers
+-  Provisioned a local **SAP NetWeaver AS ABAP** environment end-to-end for self-directed dev & testing
+
+</details>
+
+<details>
+<summary><b> Tlaliware — Founder & Technical Director</b> &nbsp;|&nbsp; <code>Dec 2024 – Jun 2025</code> · Mexico City</summary>
+
+<br/>
+
+> 1st place at **JA México nationals** (50+ teams) · Attracted inbound interest from **Steren**
+
+-  Shipped IoT irrigation product to **50 paying customers** achieving **70% water reduction**
+-  Scaled cross-functional team from **0 → 20+ members** across Engineering, Social Sciences and High School backgrounds
+-  Owned full-stack development end-to-end (backend + mobile app) — autonomous off-site operation, zero single points of failure
+
+</details>
 
 ---
 
-###  SAP Learning Hub (Official Training) — Junior ABAP Developer Trainee
-`Sep 2025 – Present` · Remote
+## Education
 
-- Reduced database query execution time by **25%** with optimized Open SQL (FOR ALL ENTRIES) and Field Symbols within the ABAP Objects (TAW12) framework
-- Cut manual reporting cycles for airport operations supervisors by **15%** by engineering Dynpro screen flows with OO ALV Grids
-- Provisioned a local **SAP NetWeaver AS ABAP** environment end-to-end for self-directed dev & testing
+<details open>
+<summary><b>B.S. Computational Systems Engineering — IPN ESCOM</b> &nbsp;|&nbsp; <code>Jun 2023 – Dec 2027</code> · Mexico City</summary>
 
----
+<br/>
 
-###  Tlaliware — Founder & Technical Director
-`Dec 2024 – Jun 2025` · Mexico City
+| | |
+|---|---|
+|  GPA | **9.75/10 — Top 1% of cohort** |
+|  Scholarship | Santander Academic Excellence |
+|  Specialization | NLP and Data Mining · AI-driven insight extraction from enterprise datasets |
+|  Key Projects | Real-time collaborative app (Scrum) · NFA Chess Pathfinding Simulator (BFS + A\* in Python) · Estudia-Pro full-stack platform (Django + relational DB) |
 
-- Shipped an IoT irrigation product to **50 paying customers** achieving **70% water reduction**
-- Attracted inbound interest from **Steren** within 7 months of launch; **won 1st place at JA México nationals** (50+ teams)
-- Scaled a cross-functional team from **0 to 20+ members** across Engineering, Social Sciences and High School backgrounds
-- Owned full-stack development end-to-end (backend + mobile app)
-
----
-
-##  Education
-
-**B.S. Computational Systems Engineering — Instituto Politécnico Nacional (ESCOM)**
-`Jun 2023 – Dec 2027` · Mexico City
-
-- GPA **9.75/10** — top 1% of cohort · Santander Academic Excellence Scholar
-- Specialization: **NLP and Data Mining** — AI-driven insight extraction from enterprise datasets
-- Key projects: real-time collaborative app (Scrum), NFA Chess Pathfinding Simulator (BFS + A* in Python), Estudia-Pro full-stack platform (Django + relational DB)
+</details>
 
 ---
 
@@ -120,8 +166,34 @@
 
 <div align="center">
 
-![Demian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DemianRom&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6C37&ring=0FAAFF&currStreakLabel=0FAAFF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DemianRom&theme=tokyo-night&hide_border=true&area=true&color=0FAAFF&line=0FAAFF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+##  Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DemianRom/DemianRom/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DemianRom/DemianRom/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/DemianRom/DemianRom/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -129,8 +201,13 @@
 
 <div align="center">
 
-*Open to internships and part-time roles starting May 2026 · Mexico City*
+### Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demian-romero-bautista-a245a2196)
+*Open to internships and part-time roles · Starting May 2026 · Mexico City 🇲🇽*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demian-romero-bautista-a245a2196)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demian0106@gmail.com)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0FAAFF,100:0f2b46&height=120&section=footer&animation=fadeIn" />
