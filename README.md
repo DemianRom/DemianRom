@@ -17,21 +17,39 @@
 
 ## About Me
 
-```typescript
-const demian = {
-  location    : "Mexico City, Mexico",
-  education   : "CS Engineering @ ESCOM-IPN  ·  GPA 9.75/10  ·  Top 1%",
-  roles       : ["Full-Stack Developer", "Scrum Master", "Startup Founder"],
-  achievements: [
-    "2nd Place Talent Land 2026 — 100+ teams",
-    "1st Place JA Mexico Nationals  — 50+ teams",
-    "Santander Academic Excellence Scholar",
-  ],
-  learning    : ["SAP BTP / RAP", "S/4HANA Cloud", "NLP & Data Mining"],
-  available   : "Internships & part-time roles · Starting May 2026",
-  funFact     : "Built a 6-language PWA in 72 hours under competition pressure",
-};
-```
+<div align="center">
+
+![Location](https://img.shields.io/badge/📍_Mexico_City-0f2b46?style=for-the-badge)
+![Education](https://img.shields.io/badge/🎓_ESCOM--IPN_·_CS_Engineering-0f2b46?style=for-the-badge)
+![GPA](https://img.shields.io/badge/⭐_GPA_9.75%2F10_·_Top_1%25-0FAAFF?style=for-the-badge)
+![Scholar](https://img.shields.io/badge/🏅_Santander_Scholar-FF6C37?style=for-the-badge)
+
+<br/>
+
+![Role1](https://img.shields.io/badge/💻_Full--Stack_Developer-1a1a2e?style=for-the-badge)
+![Role2](https://img.shields.io/badge/🔄_Scrum_Master-1a1a2e?style=for-the-badge)
+![Role3](https://img.shields.io/badge/🚀_Startup_Founder-1a1a2e?style=for-the-badge)
+
+<br/>
+
+![Trophy1](https://img.shields.io/badge/🥈_Talent_Land_2026-2nd_of_100%2B_teams-f5c518?style=for-the-badge&labelColor=0f2b46)
+![Trophy2](https://img.shields.io/badge/🥇_JA_Mexico_Nationals-1st_of_50%2B_teams-f5c518?style=for-the-badge&labelColor=0f2b46)
+
+<br/>
+
+![Learning1](https://img.shields.io/badge/📚_SAP_BTP_%2F_RAP-learning-0FAAFF?style=flat-square)
+![Learning2](https://img.shields.io/badge/📚_S%2F4HANA_Cloud-learning-0FAAFF?style=flat-square)
+![Learning3](https://img.shields.io/badge/📚_NLP_%26_Data_Mining-learning-0FAAFF?style=flat-square)
+
+<br/>
+
+![Available](https://img.shields.io/badge/🟢_Open_to_Internships_%26_Part--time-May_2026-28a745?style=for-the-badge)
+
+<br/><br/>
+
+> 💡 *Built a 6-language PWA in 72 hours under competition pressure*
+
+</div>
 
 ---
 
@@ -47,10 +65,7 @@ const demian = {
 
 <br/>
 
-<!-- FIX: usando mirror alternativo más estable para trofeos -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -176,19 +191,16 @@ const demian = {
 
 <div align="center">
 
-<!-- FIX: cache_seconds reduce errores de rate limit; theme consistente -->
-<img src="https://github-readme-stats.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400&cache_seconds=86400" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fawn-omega-17.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&cache_seconds=86400" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats-fawn-omega-17.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- FIX: streak stats con parámetros correctos -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=DemianRom&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6C37&ring=0FAAFF&currStreakLabel=0FAAFF&sideLabels=0FAAFF)](https://git.io/streak-stats)
 
 <br/>
 
-<!-- FIX: activity graph con área y colores correctos -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DemianRom&theme=tokyo-night&hide_border=true&area=true&color=0FAAFF&line=0FAAFF&point=ffffff&area_color=0FAAFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
