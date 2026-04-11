@@ -19,16 +19,16 @@
 
 | | |
 |---|---|
-| 📍 **Location** | Mexico City, Mexico |
-| 🎓 **Education** | B.S. Computer Systems Engineering · ESCOM-IPN |
-| ⭐ **GPA** | 9.75 / 10 — Top 1% of cohort |
-| 🏅 **Scholarship** | Santander Academic Excellence |
-| 💼 **Roles** | Full-Stack Developer · Scrum Master · Startup Founder |
-| 🥇 **JA Mexico Nationals** | 1st place out of 50+ teams — IoT product · 70% water saved · 50 paying customers |
-| 🥈 **Talent Land 2026** | 2nd place out of 100+ teams — 6-language PWA built in 72h |
-| 📚 **Currently learning** | SAP BTP / RAP · S/4HANA Cloud · NLP & Data Mining |
-| 🟢 **Available** | Internships & part-time roles · Starting May 2026 |
-| 💡 **Fun fact** | Built a 6-language PWA in 72 hours under competition pressure |
+| **Location** | Mexico City, Mexico |
+| **Education** | B.S. Computer Systems Engineering · ESCOM-IPN |
+| **GPA** | 9.75 / 10 — Top 1% of cohort |
+| **Scholarship** | Santander Academic Excellence |
+| **Roles** | Full-Stack Developer · Scrum Master · Startup Founder |
+| **JA Mexico Nationals** | 1st place out of 50+ teams — IoT product · 70% water saved · 50 paying customers |
+| **Talent Land 2026** | 2nd place out of 100+ teams — 6-language PWA built in 72h |
+| **Currently learning** | SAP BTP / RAP · S/4HANA Cloud · NLP & Data Mining |
+| **Available** | Internships & part-time roles · Starting May 2026 |
+| **Fun fact** | Built a 6-language PWA in 72 hours under competition pressure |
 
 ---
 
@@ -44,8 +44,7 @@
 
 <br/>
 
-<!-- Trofeos: mirror 1 -->
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" onerror="this.src='https://github-profile-trophy-winning.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10'" />
+<img src="https://github-profile-trophy-iota-flax.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -173,7 +172,7 @@
 
 <img src="https://github-readme-stats-fawn-omega-17.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats-fawn-omega-17.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats-fawn-omega-17.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&include_all_commits=true&count_private=true" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
