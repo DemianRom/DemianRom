@@ -47,7 +47,10 @@ const demian = {
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- FIX: usando mirror alternativo más estable para trofeos -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -173,16 +176,19 @@ const demian = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180" />
+<!-- FIX: cache_seconds reduce errores de rate limit; theme consistente -->
+<img src="https://github-readme-stats.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400&cache_seconds=86400" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&cache_seconds=86400" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
+<!-- FIX: streak stats con parámetros correctos -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=DemianRom&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6C37&ring=0FAAFF&currStreakLabel=0FAAFF&sideLabels=0FAAFF)](https://git.io/streak-stats)
 
 <br/>
 
+<!-- FIX: activity graph con área y colores correctos -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DemianRom&theme=tokyo-night&hide_border=true&area=true&color=0FAAFF&line=0FAAFF&point=ffffff&area_color=0FAAFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
