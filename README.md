@@ -17,21 +17,40 @@
 
 ## About Me
 
-```typescript
-const demian = {
-  location    : "Mexico City, Mexico",
-  education   : "CS Engineering @ ESCOM-IPN  ·  GPA 9.75/10  ·  Top 1%",
-  roles       : ["Full-Stack Developer", "Scrum Master", "Startup Founder"],
-  achievements: [
-    "2nd Place Talent Land 2026 — 100+ teams",
-    "1st Place JA Mexico Nationals  — 50+ teams",
-    "Santander Academic Excellence Scholar",
-  ],
-  learning    : ["SAP BTP / RAP", "S/4HANA Cloud", "NLP & Data Mining"],
-  available   : "Internships & part-time roles · Starting May 2026",
-  funFact     : "Built a 6-language PWA in 72 hours under competition pressure",
-};
-```
+<table>
+  <tr>
+    <td><b>Location</b></td>
+    <td>Mexico City, Mexico</td>
+  </tr>
+  <tr>
+    <td><b>Education</b></td>
+    <td>CS Engineering @ ESCOM-IPN &nbsp;·&nbsp; GPA 9.75/10 &nbsp;·&nbsp; Top 1% of cohort</td>
+  </tr>
+  <tr>
+    <td><b>Roles</b></td>
+    <td>Full-Stack Developer &nbsp;·&nbsp; Scrum Master &nbsp;·&nbsp; Startup Founder</td>
+  </tr>
+  <tr>
+    <td><b>Achievements</b></td>
+    <td>
+      2nd Place Talent Land 2026 — 100+ teams<br/>
+      1st Place JA Mexico Nationals — 50+ teams<br/>
+      Santander Academic Excellence Scholar
+    </td>
+  </tr>
+  <tr>
+    <td><b>Currently learning</b></td>
+    <td>SAP BTP / RAP &nbsp;·&nbsp; S/4HANA Cloud &nbsp;·&nbsp; NLP & Data Mining</td>
+  </tr>
+  <tr>
+    <td><b>Available</b></td>
+    <td>Internships & part-time roles &nbsp;·&nbsp; Starting May 2026</td>
+  </tr>
+  <tr>
+    <td><b>Fun fact</b></td>
+    <td>Built a 6-language PWA in 72 hours under competition pressure</td>
+  </tr>
+</table>
 
 ---
 
@@ -44,10 +63,6 @@ const demian = {
 | **2nd of 100+ teams** | **1st of 50+ teams** | **GPA 9.75 · Top 1%** |
 | 6-language PWA in 72h | IoT · 70% water saved | Santander Scholar |
 | Scrum Master & PO | 50 paying customers | Specialization in NLP |
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DemianRom&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -124,7 +139,7 @@ const demian = {
   | Database | Supabase (PostgreSQL 15 + RLS) |
   | External | Gemini Flash · DeepL · Google Maps · Cloudflare WAF |
 
-- Shipped: RBAC · i18n (6 languages) · AI-powered onboarding via chat · Neighborhood Passport gamification · post-event impact reports — from user story to deployed feature under live deadlines
+- Shipped: RBAC · i18n (6 languages) · AI-powered onboarding via chat · Neighborhood Passport gamification · post-event impact reports
 
 </details>
 
@@ -134,7 +149,7 @@ const demian = {
 
 - **Reduced DB query execution time by 25%** — optimized Open SQL (FOR ALL ENTRIES) + Field Symbols within ABAP Objects (TAW12) applied to high-volume airport operations reporting
 - **Cut manual reporting cycles by 15%** — engineered Dynpro screen flows with OO ALV Grids, eliminating a recurring daily bottleneck across shift handovers
-- Provisioned a local **SAP NetWeaver AS ABAP** environment end-to-end for fully self-directed development & testing
+- Provisioned a local **SAP NetWeaver AS ABAP** environment end-to-end for self-directed development & testing
 
 </details>
 
@@ -173,17 +188,18 @@ const demian = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" />
+<!-- Stats y Top Langs con cache_seconds para mayor estabilidad -->
+<img src="https://github-readme-stats.vercel.app/api?username=DemianRom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="170" alt="Demian's GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemianRom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170" alt="Top Languages" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DemianRom&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6C37&ring=0FAAFF&currStreakLabel=0FAAFF&sideLabels=0FAAFF)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=DemianRom&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6C37&ring=0FAAFF&currStreakLabel=0FAAFF&sideLabels=0FAAFF" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DemianRom&theme=tokyo-night&hide_border=true&area=true&color=0FAAFF&line=0FAAFF&point=ffffff&area_color=0FAAFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DemianRom&theme=tokyo-night&hide_border=true&area=true&color=0FAAFF&line=0FAAFF&point=ffffff&area_color=0FAAFF" alt="Activity Graph" width="100%" />
 
 </div>
 
